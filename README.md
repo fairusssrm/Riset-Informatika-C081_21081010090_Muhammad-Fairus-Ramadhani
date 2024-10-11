@@ -35,5 +35,5 @@ Metodologi adalah ilmu atau studi tentang metode. Mencakup pemahaman yang lebih 
 
 | No  | Judul                                                                                                                                | Metode / Metodologi | Review                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- | ------------------------------------- |
-| 1   | []()                                     | Metode                              | [Resume Jurnal Riset Informatika 3]() |
-| 2   | []() | Metodologi                      | [Resume Jurnal Riset Informatika 3]() |
+| 1   | [An Anomaly Detection Approach Based on Isolation Forest Algorithm for Streaming Data using Sliding Window](https://www.sciencedirect.com/science/article/pii/S1474667016314999)                                     | Metode                              | [Resume Jurnal Riset Informatika 3]() |
+| 2   | [Time Series Contextual Anomaly Detection for Detecting Stock Market Manipulation](https://era.library.ualberta.ca/items/af6513a0-e09a-47d3-8d74-2d6862f991e4/view/c50e4df8-82f4-487f-8359-f2ee2e637425/Golmohammadi_Seyed-20Koosha_201609_PhD.pdf) | Metodologi                      | [Resume Jurnal Riset Informatika 4]() |
