@@ -1,4 +1,3 @@
-Untuk memberikan review terhadap jurnal **"Handwritten Text Recognition using Deep Learning"** yang ditulis oleh Batuhan Balci, Dan Saadati, dan Dan Shiferaw, saya akan mengulas beberapa aspek penting yang biasanya menjadi fokus dalam review jurnal ilmiah. Berikut adalah analisis berdasarkan beberapa komponen utama jurnal ilmiah:
 
 ### 1. **Tujuan dan Signifikansi Penelitian**
 Jurnal ini membahas penerapan metode deep learning dalam pengenalan tulisan tangan (handwritten text recognition). Tujuan dari penelitian ini adalah untuk mengeksplorasi dan mengembangkan model deep learning yang lebih efektif dalam mengenali tulisan tangan, yang merupakan tantangan besar dalam bidang pengolahan citra dan pemrosesan teks. Penelitian ini sangat relevan karena aplikasi praktis dari handwritten text recognition memiliki potensi untuk digunakan dalam digitalisasi dokumen, sistem pengenalan tanda tangan, dan aplikasi berbasis teks lainnya.
