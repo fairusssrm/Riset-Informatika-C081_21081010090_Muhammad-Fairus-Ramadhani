@@ -44,3 +44,21 @@ Penelitian ini memberikan kontribusi signifikan terhadap bidang pengenalan tulis
 Jurnal ini, berdasarkan judul dan topiknya, memiliki potensi untuk memberikan kontribusi yang berarti dalam bidang handwriting text recognition menggunakan deep learning. Namun, untuk memberikan ulasan yang lebih komprehensif, perlu dilihat lebih lanjut detail eksperimen dan hasil yang didapatkan, serta bagaimana model yang diajukan dibandingkan dengan metode lain yang sudah ada. Secara keseluruhan, penelitian ini sangat relevan dan memberikan wawasan baru bagi pengembangan teknologi pengenalan tulisan tangan.
 
 Jika kamu memiliki akses langsung ke isi artikel ini, aku bisa membantu memberikan review yang lebih mendalam berdasarkan informasi spesifik dari jurnal tersebut!
+
+
+
+## Research Gap 
+### 1. Kurangnya Penerapan Teknik Praproses Lanjutan (Seperti Jittering)
+Gap: Teknik jittering belum diterapkan dalam pelatihan model, yang dapat meningkatkan keberagaman dan ketahanan model terhadap gangguan data.
+
+Solusi: Implementasikan teknik jittering dalam preprocessing data untuk menciptakan variasi kecil pada citra atau data pelatihan, sehingga model menjadi lebih robust terhadap perubahan kecil dalam input dan meningkatkan kemampuan generalisasi.
+
+### 2. Pembatasan pada Jumlah Contoh Pelatihan
+Gap: Pembatasan hanya menggunakan 20 contoh pelatihan per kata dapat menyebabkan model kurang optimal dalam memahami variabilitas kata tersebut dalam konteks yang berbeda.
+
+Solusi: Cobalah untuk meningkatkan jumlah contoh pelatihan jika memungkinkan, atau gunakan teknik augmentasi data lain seperti rotasi, translasi, atau pemadatan untuk memperkaya data tanpa meningkatkan biaya. Atau, terapkan transfer learning dengan model yang sudah dilatih pada dataset yang lebih besar untuk meningkatkan performa.
+
+### 3. Penggunaan Pencarian Serakah (Greedy Search)
+Gap: Pencarian greedy digunakan untuk mencari solusi yang paling mungkin, tetapi ini cenderung mengabaikan solusi optimal lainnya yang lebih kompleks.
+
+Solusi: Implementasikan algoritma pencarian yang lebih canggih dan menyeluruh, seperti beam search, untuk mempertimbangkan lebih banyak solusi yang mungkin, bukan hanya yang terbaik menurut pencarian greedy. Beam search memberikan kemungkinan untuk mengeksplorasi jalur lebih banyak dan mempertimbangkan konteks yang lebih luas.
