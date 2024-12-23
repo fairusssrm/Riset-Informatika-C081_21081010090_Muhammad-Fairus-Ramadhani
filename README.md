@@ -5,7 +5,7 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 - Nama : Muhammad Fairus Ramadhani
 - NPM : 21081010090
 - Kelas : Riset Informatika C081
-- Judul Riset : 
+- Judul Riset : Pengenalan Tulisan Tangan Online Menggunakan Kombinasi SVM dan LSTM untuk Klasifikasi teks
 
 ## Jurnal Acuan
 1. Offline handwritten text recognition using support vector machines : https://ieeexplore.ieee.org/document/8049930/
